@@ -43,3 +43,9 @@ padding: 0;
     background: white;
     padding: 1em;
 }
+#footer{
+   background: red;
+   color: aquamarine;
+   text-align: center;
+   padding: 20px;
+}
